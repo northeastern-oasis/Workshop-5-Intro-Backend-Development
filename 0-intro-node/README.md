@@ -19,9 +19,9 @@ Our goal here is to try our Node.js——to do so, we're going to use the comman
 You can now type JavaScript code in your, which will be run by Node.js——this is cool stuff! 
 Let's try some JavaScript code:
 
-1. let message = 'foo'
+1. `let message = 'foo'`
 	- This just creates a new variable and gives it the value 'foo'
-2. console.log(message)
+2. `console.log(message)`
 	- This will print the value of message to the console
 3. Watch your message print out...cool right!
 

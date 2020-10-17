@@ -18,11 +18,11 @@ fs.writeFileSync("output.txt", message);
 
 
 // YOUR TURN:
-1. Change the output message to say anything else you want
-2. Rerun this Node app (yes, this is an app!)--do you see the change?
-3. Add a new fs.writeFileSync command to make another file with any name and message you want
+// 1. Change the output message to say anything else you want
+// 2. Rerun this Node app (yes, this is an app!)--do you see the change?
+// 3. Add a new fs.writeFileSync command to make another file with any name and message you want
 
 // CHALLENGE:
 // Can you write a for loop to create 100 new files, each being named numbers 1-100 (so 1.txt, 2.txt, 3.txt, etc) 
 
-(solution in first-app-solution.js)
+// (solution in first-app-solution.js)

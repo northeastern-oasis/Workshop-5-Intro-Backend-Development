@@ -1,0 +1,16 @@
+{
+  "name": "oasis-intro-express",
+  "version": "1.0.0",
+  "description": "Fourth part of Oasis Workshop 5",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Oasis NEU",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

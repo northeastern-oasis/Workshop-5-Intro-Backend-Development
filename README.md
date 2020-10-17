@@ -14,9 +14,10 @@ While this will be an introduction, it will set you up to continue learning and 
 This time, we'll be needing to work with and run files on our local system. To get set up with that, you'll need to go through the following steps:
 
 1. Install Node.js [here](https://nodejs.org/en/). Just choose the LTS version, then go through installer steps.
-2. Install Git [here](https://git-scm.com/downloads). Choose your operating system, then go through installer steps.
-3. Clone this Github repository into a new folder on your machine (in Terminal or Command Prompt, type `git clone REPO_URL`, where REPO_URL is the clone repository found on the top of this page
-4. You're all set! Just have the cloned folder easily accessible and follow along with the workshop to start writing backend code
+2. Install Postman [here](https://www.postman.com/downloads/). This lets us make API requests
+3. Install Git [here](https://git-scm.com/downloads). Choose your operating system, then go through installer steps.
+4. Clone this Github repository into a new folder on your machine (in Terminal or Command Prompt, type `git clone REPO_URL`, where REPO_URL is the clone repository found on the top of this page
+5. You're all set! Just have the cloned folder easily accessible and follow along with the workshop to start writing backend code
 
 
 ## After the Workshop
