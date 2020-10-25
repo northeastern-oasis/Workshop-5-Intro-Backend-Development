@@ -1,14 +1,12 @@
 # Step 4: Intro to Express!
 
-**Note: completed code in the folder "4-intro-express-solution" one level up--you should start in this folder**
-
 ### Objectives:
 - Get our Express app up and running
 - Parse different paths and the data they send
 - Send back data when we recieve GET requests
 - Store data when we recieve POST requests
 
-Finally, it's time to use Express! While we can accomplish a lot with just Node.js, Express gives us many more powers, including greater ease when parsing routes and figuring out what kind of request we're dealing with (GET, POST, etc)
+Finally, it's time to use Express! While we can accomplish a lot with just Node.js, Express gives us many more powers, including greater ease when parsing routes and figuring out what kind of request we're dealing with (GET, POST, etc).
 
 We are now inside a **Node project**, not just a single file that is run as an app. This is because we need to use Express, a third-party package. Basically, Express is a bunch of code somebody else wrote that we want to use in our own project.
 
@@ -20,7 +18,7 @@ To get started, we must download Express and its **dependencies** (other code pa
 
 (or just double click the RUN APP file)
 
-Our starting point for this app is `app.js`. This is where we tell Node to start executing in our `package.json` (more on that later). 
+Our starting point for this app is `app.js`. This is where we tell Node to start executing in our `package.json` (more on that in a moment).
 
 `package.json` tells Node information about this project--what packages it uses (like Express), what the starting point is (`app.js`), who the author is, etc
 
@@ -30,7 +28,7 @@ Finally, the `routes` folder holds the routes for our app--the URLs we can acces
 
 ### Task:
 
-Our goal is to modify our routes--what happens when we access certain URLs in our app. These can be found in the "routes" folder.
+Our goal is to modify our routes--what happens when we access certain URLs in our app. These can be found in the `routes` folder.
 
 First open `profile-routes.js`, read through the comments, and do the challenges:
 

@@ -11,7 +11,7 @@ While using Node to run JavaScript through the console is fun, it is impractical
 
 ### Task:
 
-Our goal is to run the file first-app.js. First we will finish writing it
+Our goal is to run the file `first-app.js`. First we will finish writing it
 
 1. Open the file, read through the comments, and do the challenges
 

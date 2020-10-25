@@ -6,7 +6,7 @@
 - Send back HTML to our client
 - Parse the URL to give a different response
 
-We will once again be creating a simple server--this time, however, we will be sending back HTML! We will also be parsing the user's URL 
+We will once again be creating a simple server--this time, however, we will be sending back HTML! We will also be parsing the user's URL.
 
 ### Task:
 
@@ -18,8 +18,8 @@ First open the file, read through the comments, and do the challenges:
 2. When the server recieves a message, it calls a *callback function*. This is defined for you: `serverCallback(req, res)`
 3. Node passes in data as arguments to this function when calling it. 
 4. In the callback, you will grab and parse the URL of whoever is visiting your server, and show a different response depending on the **path** they're visiting
-5. The response this time will be HTML--you can send back anything you want, really!
-6. You will Run your Node app (see below)
+5. The response this time will be HTML--you can send back anything you want though, really!
+6. You will run your Node app (see below)
 7. Visit localhost:3000, localhost:3000/about, and localhost:3000/blog in your browser to test this out!
 
 

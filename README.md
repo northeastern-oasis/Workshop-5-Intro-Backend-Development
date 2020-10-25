@@ -1,12 +1,16 @@
 # Workshop 5: Introduction to Backend Development
 
+**Workshop External Resources**
+
+  *  **Youtube Recording**: [https://youtu.be/7oz-P_yDJjs](https://youtu.be/7oz-P_yDJjs)
+  *  **Slides**: [https://docs.google.com/presentation/d/1jjSq3uEILrLRJ5vU2IEMNBI3-fRDIPMjvMU_GkukmBk/edit?usp=sharing](https://docs.google.com/presentation/d/1jjSq3uEILrLRJ5vU2IEMNBI3-fRDIPMjvMU_GkukmBk/edit?usp=sharing)
+  * **Oasis Starting Guide**: [https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/backend-dev](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/backend-dev)
+
 Congratulations on taking your first step into developing a backend for your application. As your project grows, backends become a necessity to facilitate splitting up app functionality, promoting app speed, and maintaining security.
 
 In this workshop, we will start by introducing some topics related to backends, including the basics of REST API's and server requests. We will also talk about why we use backends, and end with an introduction to actually making one with Node.js and Express.
 
 While this will be an introduction, it will set you up to continue learning and growing in these skills.
-
-**Slides:** [https://docs.google.com/presentation/d/1jjSq3uEILrLRJ5vU2IEMNBI3-fRDIPMjvMU_GkukmBk/edit?usp=sharing](https://docs.google.com/presentation/d/1jjSq3uEILrLRJ5vU2IEMNBI3-fRDIPMjvMU_GkukmBk/edit?usp=sharing)
 
 
 ## Getting Started/Homework

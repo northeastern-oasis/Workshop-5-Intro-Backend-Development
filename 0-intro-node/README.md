@@ -10,13 +10,13 @@ Eventually, backends you create will be able to handle incoming requests of many
 
 ### Task
 
-Our goal here is to try our Node.js——to do so, we're going to use the command line! We'll fire up Node, and then type some JavaScript code to see how it reacts
+Our goal here is to try out Node.js——to do so, we're going to use the command line! We'll fire up Node, and then type some JavaScript code to see how it reacts
 
 1. Open Command Prompt if you're on Windows, or Terminal if you're on Mac (just search for them if you can't find it)
 2. Ensure you have Node installed. If not, see README in the folder above this
 3. Type "node" (no quotes) into the terminal. If Node was installed correctly, you should see "Welcome to Node.js" followed by version info
 
-You can now type JavaScript code in your, which will be run by Node.js——this is cool stuff! 
+You can now type JavaScript code in your console, which will be run by Node.js——this is cool stuff! 
 Let's try some JavaScript code:
 
 1. `let message = 'foo'`

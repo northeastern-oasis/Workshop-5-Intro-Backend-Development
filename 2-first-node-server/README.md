@@ -10,14 +10,14 @@ So far, what we've done hasn't been exceptional. It's now time to start leveragi
 
 ### Task:
 
-Our goal is to run the file node-server.js. This file will start a server when we run it, which we can access through our browser. First we will finish writing it. 
+Our goal is to run the file `node-server.js`. This file will start a server when we run it, which we can access through our browser. First we will finish writing it. 
 
 First open the file, read through the comments, and do the challenges:
 
 1. You will be creating a server. This is done for you
 2. When the server recieves a message, it calls a *callback function*. This is defined for you: `serverCallback(req, res)`
 3. Node passes in data as arguments to this function when calling it. 
-4. You will first log the request made--it looks pretty huge! You don't need to worry about what it says, just know a lot of data gets passed about you when your machine for Node to use.
+4. You will first log the request made--it looks pretty huge! You don't need to worry about what it says, just know a lot of data gets passed about you and your machine for Node to use
 5. You will use `res.write` to write a response to your client
 6. You will after call `res.end()` to end the response
 7. Run your Node app (see below), and visit localhost:3000 in your browser to try this out!
